@@ -653,3 +653,17 @@
   place: Cosenza, Italy
   sub: DM
   note: '<b>NOTE</b>: Industry Session Deadline: 16 June 2022'
+
+- title: S&P (Oakland)
+  full_name: IEEE Symposium on Security and Privacy
+  id: sp-oakland23
+  year: 2023
+  date: "May 22 – 26 2023"
+  link: https://www.ieee-security.org/TC/SP2023
+  deadline:
+    - "2022-04-01 23:59"
+    - "2022-08-19 23:59"
+    - "2022-12-02 23:59"
+  place: San Francisco, California, USA
+  timezone: UTC-7
+  sub: PS
