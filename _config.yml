@@ -1,13 +1,14 @@
-title: AI Conference Deadlines
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+title: Conference Deadlines
+description: Countdowns to top conference deadlines
+# author: Abhishek Das
 
 domain: "sajadmanesh.com"
+url: "//sajadmanesh.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "/deadlines"
 
 twitter_hashtag: machinelearning
-github_username: paperswithcode
-github_repo: ai-deadlines
+github_username: sisaman
+github_repo: deadlines
 
 markdown: kramdown
 ga_id:
