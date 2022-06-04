@@ -166,46 +166,6 @@
   hindex: -1
   sub: NLP
 
-# - title: CoRL
-#   year: 2022
-#   id: corl22
-#   link: https://corl2022.org
-#   deadline: '2022-06-15 23:59:00'
-#   timezone: UTC-12
-#   place: Auckland, New Zealand, and virtual
-#   date: December 14-18, 2022
-#   start: 2022-12-14
-#   end: 2022-12-18
-#   sub: RO
-  
-# - title: ALT
-#   year: 2020
-#   id: alt20
-#   link: http://alt2020.algorithmiclearningtheory.org/
-#   deadline: '2019-09-20 16:59:59'
-#   timezone: America/New_York
-#   place: San Diego, CA, United States
-#   date: February 8-10, 2020
-#   start: 2020-02-08
-#   end: 2020-02-10
-#   paperslink: http://algorithmiclearningtheory.org/alt2020/accepted-papers/
-#   hindex: 15
-#   sub: ML
-
-# - title: HRI
-#   year: 2020
-#   id: hri20
-#   link: https://humanrobotinteraction.org/2020/
-#   deadline: '2019-10-01 23:59:59'
-#   timezone: America/Los_Angeles
-#   place: Cambridge, UK
-#   date: March 23-26, 2020
-#   start: 2020-03-23
-#   end: 2020-03-26
-#   paperslink: https://dl.acm.org/doi/proceedings/10.1145/3319502
-#   hindex: 40
-#   sub: RO
-
 - title: ICMR
   full_name: ACM International Conference on Multimedia Retrieval
   year: 2020
@@ -220,20 +180,6 @@
   paperslink: http://icmr2020.org/ICMR2020-detailed-schedule-FINAL.pdf
   hindex: 33
   sub: CV
-
-# - title: COLT
-#   year: 2020
-#   id: colt20
-#   link: http://www.learningtheory.org/colt2020/
-#   deadline: '2020-01-31 16:00:00'
-#   timezone: America/Los_Angeles
-#   place: Graz, Austria
-#   date: June 8-12, 2020
-#   start: 2020-06-08
-#   end: 2020-06-12
-#   paperslink: http://proceedings.mlr.press/v125/
-#   hindex: 48
-#   sub: ML
 
 - title: ICCC
   full_name: International Conference on Computational Creativity
@@ -295,34 +241,6 @@
   hindex: 34
   sub: NLP
 
-# - title: 3DV
-#   year: 2020
-#   id: threedv20
-#   link: http://3dv2020.dgcv.nii.ac.jp/index.html
-#   deadline: '2020-07-31 23:59:59'
-#   timezone: America/Los_Angeles
-#   place: Fukuoka, Japan
-#   date: November 25-28, 2020
-#   start: 2020-11-25
-#   end: 2020-11-28
-#   paperslink: http://3dv2020.dgcv.nii.ac.jp/conferenceprogram.html
-#   hindex: 29
-#   sub: CV
-
-# - title: WMT
-#   year: 2020
-#   id: wmt20
-#   link: http://www.statmt.org/wmt20/
-#   deadline: '2020-08-15 23:59:00'
-#   timezone: UTC-12
-#   place: Online
-#   date: November 19-20, 2020
-#   start: 2020-11-19
-#   end: 2020-11-20
-#   paperslink: http://www.statmt.org/wmt20/papers.html
-#   hindex: 27
-#   sub: NLP
-
 - title: EACL
   full_name: Conference of the European Chapter of the Association for Computational Linguistics
   year: 2021
@@ -371,97 +289,6 @@
   hindex: 33
   sub: DM
 
-
-# - title: ICME
-#   year: 2021
-#   id: icme21
-#   link: https://2021.ieeeicme.org/
-#   deadline: '2020-11-29 23:59:59'
-#   timezone: America/Los_Angeles
-#   place: Shenzhen, China
-#   date: July 5-9, 2021
-#   start: 2021-07-05
-#   end: 2021-07-09
-#   paperslink: https://2021.ieeeicme.org/conf_oral
-#   hindex: 30
-#   sub: CV
-
-
-# - title: SIGGRAPH
-#   year: 2021
-#   id: siggraph21
-#   link: https://s2021.siggraph.org/
-#   deadline: '2021-01-28 22:00:00'
-#   abstract_deadline: '2021-01-27 22:00:00'
-#   timezone: UTC
-#   place: Online
-#   date: August 1-5, 2021
-#   start: 2021-08-01
-#   end: 2021-08-05
-#   paperslink: https://s2021.siggraph.org/full-program/
-#   hindex: 19
-#   sub: CV
-#   note: Mandatory abstract deadline on Jan 27, 2021. More info <a href='https://s2021.siggraph.org/program/technical-papers/'>here</a>.
-
-# - title: MIDL
-#   year: 2021
-#   id: midl2021
-#   link: https://2021.midl.io/
-#   deadline: '2021-02-17 23:59:59'
-#   abstract_deadline: '2021-02-10 23:59:59'
-#   timezone: UTC-12
-#   place: Luebeck, Germany
-#   date: July 7-9, 2021
-#   start: 2021-07-07
-#   end: 2021-07-09
-#   paperslink: https://2021.midl.io/program.html
-#   hindex: -1
-#   sub: CV
-#   note: Abstract deadline on Feb 10, 2021. More info <a href='https://2021.midl.io/dates.html'>here</a>.
-
-
-# - title: IROS
-#   year: 2021
-#   id: iros21
-#   link: https://www.iros2021.org/important-dates
-#   deadline: '2021-03-01 23:59:59'
-#   timezone: America/Los_Angeles
-#   place: Prague, Czech Republic
-#   date: September 27 - October 1, 2021
-#   start: 2021-09-27
-#   end: 2021-10-01
-#   hindex: 58
-#   sub: RO
-
-# - title: RSS
-#   year: 2021
-#   id: rss21
-#   link: https://roboticsconference.org/
-#   deadline: '2021-03-01 23:59:59'
-#   timezone: UTC-12
-#   place: Online
-#   date: July 12-16, 2021
-#   start: 2021-07-12
-#   end: 2021-07-16
-#   paperslink: https://roboticsconference.org/program/papers/
-#   hindex: 47
-#   sub: RO
-
-# - title: MICCAI
-#   year: 2021
-#   id: miccai2021
-#   link: http://www.miccai2021.org/
-#   deadline: '2021-03-03 23:59:59'
-#   timezone: America/Los_Angeles
-#   place: Lima, Peru
-#   date: September 27 - October 1, 2021
-#   start: 2021-09-27
-#   end: 2021-10-01
-#   paperslink: https://www.miccai2021.org/en/TENTATIVE-SCHEDULE.html
-#   hindex: 46
-#   sub: CV
-#   note: Intent to submit deadline on Feb 19, 2021. More info <a href='https://www.miccai2021.org/'>here</a>.
-
 - title: ICCV
   full_name: International Conference on Computer Vision
   year: 2021
@@ -477,20 +304,6 @@
   sub: CV
   note: Mandatory paper registration deadline on Mar 10, 2021. More info <a href='http://iccv2021.thecvf.com/home'>here</a>.
 
-# - title: FG
-#   year: 2021
-#   id: fg2021
-#   link: http://iab-rubric.org/fg2021/
-#   deadline: '2021-04-15 23:59:00'
-#   timezone: America/Los_Angeles
-#   place: Jodhpur, India
-#   date: December 15-18, 2021
-#   start: 2021-12-15
-#   end: 2021-12-18
-#   hindex: -1
-#   sub: CV
-#   note: the 2nd round submission deadline is July 15, 2021.
-
 - title: RecSys
   full_name: ACM Conference on Recommender Systems
   hindex: 45
@@ -505,50 +318,6 @@
   sub: DM
   note: '<b>NOTE</b>: Mandatory abstract deadline on April 26, 2022. More info <a href=''https://recsys.acm.org/recsys22/call/''>here</a>.'
 
-# - title: WACV
-#   year: 2022
-#   id: wacv22
-#   link: http://wacv2022.thecvf.com/
-#   deadline: '2021-06-02 23:59:59'
-#   timezone: America/Los_Angeles
-#   place: Waikoloa, Hawaii, USA
-#   date: January 4-8, 2022
-#   start: 2022-01-04
-#   end: 2022-01-08
-#   hindex: 54
-#   sub: CV
-#   note: Second round submission deadline on Aug. 11th 2021
-
-
-# - title: AKBC
-#   year: 2021
-#   id: akbc21
-#   link: https://www.akbc.ws/2021/
-#   deadline: '2021-06-21 23:59:59'
-#   timezone: UTC-12
-#   place: Irvine, United States
-#   date: October 4-7, 2021
-#   start: 2021-10-04
-#   end: 2021-10-07
-#   paperslink: https://openreview.net/group?id=AKBC.ws/2021/Conference#all-submissions
-#   sub: NLP
-
-# - title: BMVC
-#   year: 2021
-#   id: bmvc21
-#   link: https://www.bmvc2021.com
-#   deadline: '2021-06-25 23:59:59'
-#   abstract_deadline: '2021-06-18 23:59:59'
-#   timezone: UTC
-#   place: Online
-#   date: November 22-25, 2021
-#   start: 2021-11-22
-#   end: 2021-11-25
-#   hindex: 57
-#   sub: CV
-#   note: Mandatory abstract deadline on June 18, 2021. More info <a href='https://www.bmvc2021.com/dates/'>here</a>.
-
-
 - title: WSDM
   full_name: ACM International Conference on Web Search and Data Mining
   year: 2022
@@ -562,19 +331,6 @@
   end: 2022-02-25
   hindex: 54
   sub: DM
-
-# - title: ICRA
-#   year: 2022
-#   id: icra22
-#   link: https://icra2022.org/
-#   deadline: '2021-09-14 23:59:59'
-#   timezone: America/Los_Angeles
-#   place: Philadelphia (PA), USA
-#   date: May 23-27, 2022
-#   start: 2022-05-23
-#   end: 2022-05-27
-#   hindex: 94
-#   sub: RO
 
 - title: ICLR
   full_name: International Conference on Learning Representations
@@ -664,46 +420,6 @@
   end: 2022-06-24
   hindex: 299
   sub: CV
-
-# - title: L4DC
-#   year: 2022
-#   id: l4dc22
-#   link: https://l4dc.stanford.edu/
-#   deadline: '2021-12-07 17:00:00'
-#   timezone: UTC-5
-#   place: Stanford University, CA, USA
-#   date: June 23-24, 2022
-#   start: 2022-06-23
-#   end: 2022-06-24
-#   sub: ML
-
-# - title: ICAPS
-#   year: 2022
-#   id: icaps22
-#   link: http://icaps22.icaps-conference.org/
-#   deadline: '2021-12-15 23:59:59'
-#   abstract_deadline: '2021-12-10 23:59:59'
-#   timezone: UTC-12
-#   place: Singapore Management University, Singapore
-#   date: June 19-24, 2022
-#   start: 2022-06-19
-#   end: 2022-06-24
-#   hindex: 27
-#   sub: ML
-#   note: Mandatory abstract deadline on Dec 10, 2021. More info <a href='http://icaps22.icaps-conference.org/'>here</a>.
-
-# - title: LREC
-#   year: 2022
-#   id: lrec22
-#   link: http://elra.info/en/lrec/lrec-2022/
-#   deadline: '2022-01-10 23:59:59'
-#   timezone: Europe/Paris
-#   place: Marseille, France
-#   date: June 20-25, 2022
-#   start: 2022-06-20
-#   end: 2022-06-25
-#   hindex: 38
-#   sub: NLP
 
 - title: IJCAI
   year: 2022
@@ -812,19 +528,6 @@
   sub: DM
   note: Mandatory abstract deadline on January 21, 2022. More info <a href='https://sigir.org/sigir2022/call-for-papers/'>here</a>.
 
-# - title: RSS
-#   year: 2022
-#   id: rss22
-#   link: https://roboticsconference.org/
-#   deadline: '2022-01-28 23:59:59'
-#   timezone: UTC-12
-#   place: New York City, USA
-#   date: June 27 - July 1, 2022
-#   start: 2022-06-27
-#   end: 2022-07-01
-#   hindex: 50
-#   sub: RO
-
 - title: KDD
   full_name: ACM International Conference on Knowledge Discovery and Data Mining
   year: 2022
@@ -864,19 +567,6 @@
   start: 2022-08-01
   end: 2022-08-05
   sub: ML
-
-# - title: IROS
-#   year: 2022
-#   id: iros22
-#   link: https://iros2022.org/
-#   deadline: '2022-03-01 23:59:59'
-#   timezone: America/Los_Angeles
-#   place: Kyoto, Japan
-#   date: October 23-27, 2022
-#   start: 2022-10-23
-#   end: 2022-10-27
-#   hindex: 73
-#   sub: RO
 
 - title: AutoML-Conf
   full_name: International Conference on Automated Machine Learning
@@ -923,20 +613,6 @@
   hindex: 197
   sub: CV
 
-# - title: RO-MAN
-#   year: 2022
-#   id: ro-man22
-#   link: http://www.ro-man2022.org/
-#   deadline: '2022-03-15 23:59:59'
-#   timezone: UTC+1
-#   place: Naples, Italy
-#   date: August 29 - September 2, 2022
-#   start: 2022-08-29
-#   end: 2022-09-02
-#   hindex: 29
-#   sub: RO
-#   note: Workshop and Tutorial deadline on February 7, 2022
-
 - title: InterSpeech
   year: 2022
   id: interspeech22
@@ -977,16 +653,3 @@
   place: Cosenza, Italy
   sub: DM
   note: '<b>NOTE</b>: Industry Session Deadline: 16 June 2022'
-  
-# - title: SIGGRAPHASIAConf
-#   year: 2022
-#   id: siggraphasia22  # title as lower case + last two digits of year
-#   full_name: SIGGRAPH ASIA 2022  # full conference name
-#   link: https://sa2022.siggraph.org/
-#   deadline: 2022-05-20 23:59
-#   abstract_deadline: 2022-05-19 23:59
-#   timezone: UTC-12
-#   place: Daegu, South Korea
-#   date: December, 6-9, 2022
-#   sub: CG
-#   note: 
