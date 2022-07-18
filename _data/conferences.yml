@@ -3,7 +3,7 @@
 - title: SIGMOD (Cycle A)
   full_name: ACM SIGMOD/PODS International Conference on Management of Data
   year: 2023
-  id: sigmod
+  id: sigmod-1
   link: http://2023.sigmod.org/
   deadline: '2022-04-15 23:59:59'
   timezone: UTC-7
@@ -14,7 +14,7 @@
 - title: SIGMOD (Cycle B)
   full_name: ACM SIGMOD/PODS International Conference on Management of Data
   year: 2023
-  id: sigmod
+  id: sigmod-2
   link: http://2023.sigmod.org/
   deadline: '2022-07-15 23:59:59'
   timezone: UTC-7
@@ -25,7 +25,7 @@
 - title: SIGMOD (Cycle C)
   full_name: ACM SIGMOD/PODS International Conference on Management of Data
   year: 2023
-  id: sigmod
+  id: sigmod-3
   link: http://2023.sigmod.org/
   deadline: '2022-10-15 23:59:59'
   timezone: UTC-7
@@ -36,7 +36,7 @@
 - title: ICDE (First Round)
   full_name: IEEE International Conference on Data Engineering
   year: 2023
-  id: icde
+  id: icde-1
   link: https://icde2023.ics.uci.edu/
   deadline: '2022-04-25 23:59:59'
   timezone: UTC-7
@@ -47,7 +47,7 @@
 - title: ICDE (Second Round)
   full_name: IEEE International Conference on Data Engineering
   year: 2023
-  id: icde
+  id: icde-2
   link: https://icde2023.ics.uci.edu/
   deadline: '2022-07-08 23:59:59'
   timezone: UTC-7
@@ -58,7 +58,7 @@
 - title: ICDE (Third Round)
   full_name: IEEE International Conference on Data Engineering
   year: 2023
-  id: icde
+  id: icde-3
   link: https://icde2023.ics.uci.edu/
   deadline: '2022-10-08 23:59:59'
   timezone: UTC-7
@@ -303,7 +303,7 @@
 - title: ICWSM (Fall Deadline)
   full_name: International AAAI Conference on Web and Social Media
   year: 2023
-  id: icwsm-1
+  id: icwsm-2
   link: https://www.icwsm.org/2023
   deadline: '2022-09-15 23:59:59'
   timezone: UTC-12
@@ -314,7 +314,7 @@
 - title: ICWSM (Winter Deadline)
   full_name: International AAAI Conference on Web and Social Media
   year: 2023
-  id: icwsm-1
+  id: icwsm-3
   link: https://www.icwsm.org/2023
   deadline: '2023-01-15 23:59:59'
   timezone: UTC-12
