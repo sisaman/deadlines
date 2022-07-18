@@ -6,7 +6,7 @@
   id: sigmod
   link: http://2023.sigmod.org/
   deadline: '2022-04-15 23:59:59'
-  timezone: PST
+  timezone: UTC-7
   place: Seattle, WA, US
   date: June 18-23, 2023
   sub: DM
@@ -17,7 +17,7 @@
   id: sigmod
   link: http://2023.sigmod.org/
   deadline: '2022-07-15 23:59:59'
-  timezone: PST
+  timezone: UTC-7
   place: Seattle, WA, US
   date: June 18-23, 2023
   sub: DM
@@ -28,7 +28,7 @@
   id: sigmod
   link: http://2023.sigmod.org/
   deadline: '2022-10-15 23:59:59'
-  timezone: PST
+  timezone: UTC-7
   place: Seattle, WA, US
   date: June 18-23, 2023
   sub: DM
@@ -39,7 +39,7 @@
   id: icde
   link: https://icde2023.ics.uci.edu/
   deadline: '2022-04-25 23:59:59'
-  timezone: PST
+  timezone: UTC-7
   place: Anaheim, CA, US
   date: April 3-7, 2023
   sub: DM
@@ -50,7 +50,7 @@
   id: icde
   link: https://icde2023.ics.uci.edu/
   deadline: '2022-07-08 23:59:59'
-  timezone: PST
+  timezone: UTC-7
   place: Anaheim, CA, US
   date: April 3-7, 2023
   sub: DM
@@ -61,7 +61,7 @@
   id: icde
   link: https://icde2023.ics.uci.edu/
   deadline: '2022-10-08 23:59:59'
-  timezone: PST
+  timezone: UTC-7
   place: Anaheim, CA, US
   date: April 3-7, 2023
   sub: DM
