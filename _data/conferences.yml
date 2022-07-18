@@ -1,18 +1,18 @@
 ---
 
-- title: ACML
-  full_name: Asian Conference on Machine Learning
-  year: 2022
-  id: acml22
-  link: https://www.acml-conf.org/2022
-  deadline: '2022-06-23 23:59:00'
-  timezone: UTC-12
-  place: Hyderabad, India
-  date: December 12-14, 2022
-  start: 2022-12-12
-  end: 2022-12-14
-  hindex: 20
-  sub: ML
+# - title: ACML
+#   full_name: Asian Conference on Machine Learning
+#   year: 2022
+#   id: acml22
+#   link: https://www.acml-conf.org/2022
+#   deadline: '2022-06-23 23:59:00'
+#   timezone: UTC-12
+#   place: Hyderabad, India
+#   date: December 12-14, 2022
+#   start: 2022-12-12
+#   end: 2022-12-14
+#   hindex: 20
+#   sub: ML
 
 - title: AAAI
   year: 2023
@@ -60,35 +60,35 @@
   sub: NLP
   note: Hybrid format with ARR and START. More info <a href='https://2022.emnlp.org/calls/papers/Overview'>here</a>.
 
-- title: MM
-  full_name: ACM International Conference on Multimedia
-  year: 2022
-  id: mm22
-  link: https://2022.acmmm.org/
-  deadline: '2022-04-11 23:59:59'
-  abstract_deadline: '2022-03-31 23:59:59'
-  timezone: UTC-12
-  place: Lisbon, Portugal
-  date: October 10-14, 2022
-  start: 2022-10-10
-  end: 2022-10-14
-  hindex: 58
-  sub: CV
-  note: Mandatory abstract deadline on March 31, 2022. More info <a href='https://2022.acmmm.org/call-for-papers/'>here</a>.
+# - title: MM
+#   full_name: ACM International Conference on Multimedia
+#   year: 2022
+#   id: mm22
+#   link: https://2022.acmmm.org/
+#   deadline: '2022-04-11 23:59:59'
+#   abstract_deadline: '2022-03-31 23:59:59'
+#   timezone: UTC-12
+#   place: Lisbon, Portugal
+#   date: October 10-14, 2022
+#   start: 2022-10-10
+#   end: 2022-10-14
+#   hindex: 58
+#   sub: CV
+#   note: Mandatory abstract deadline on March 31, 2022. More info <a href='https://2022.acmmm.org/call-for-papers/'>here</a>.
 
-- title: ICMI
-  full_name: ACM International Conference on Multimodal Interaction
-  year: 2022
-  id: icmi2022
-  link: https://icmi.acm.org/2022/
-  deadline: '2022-05-13 23:59:00'
-  timezone: UTC-7
-  place: Bangalore, India
-  date: November 7-11, 2022
-  start: 2022-11-07
-  end: 2022-11-11
-  hindex: 34
-  sub: CV
+# - title: ICMI
+#   full_name: ACM International Conference on Multimodal Interaction
+#   year: 2022
+#   id: icmi2022
+#   link: https://icmi.acm.org/2022/
+#   deadline: '2022-05-13 23:59:00'
+#   timezone: UTC-7
+#   place: Bangalore, India
+#   date: November 7-11, 2022
+#   start: 2022-11-07
+#   end: 2022-11-11
+#   hindex: 34
+#   sub: CV
 
 - title: CIKM
   full_name: ACM International Conference on Information and Knowledge Management
@@ -585,19 +585,19 @@
 #   note: Conference replacing the AutoML workshops @ ICML as they were extremely successful.
 #     First edition.
 
-- title: CoLLAs
-  full_name: Conference on Lifelong Learning Agents
-  year: 2022
-  id: collas22
-  link: https://lifelong-ml.cc
-  deadline: '2022-03-04 23:59:59'
-  abstract_deadline: '2022-03-01 23:59:59'
-  timezone: UTC-12
-  place: Online
-  date: August 29-31, 2022
-  start: 2022-08-29
-  end: 2022-08-31
-  sub: ML
+# - title: CoLLAs
+#   full_name: Conference on Lifelong Learning Agents
+#   year: 2022
+#   id: collas22
+#   link: https://lifelong-ml.cc
+#   deadline: '2022-03-04 23:59:59'
+#   abstract_deadline: '2022-03-01 23:59:59'
+#   timezone: UTC-12
+#   place: Online
+#   date: August 29-31, 2022
+#   start: 2022-08-29
+#   end: 2022-08-31
+#   sub: ML
 
 - title: ECCV
   full_name: European Conference on Computer Vision
@@ -946,17 +946,17 @@
 #   timezone: UTC-8
 #   sub: PS
 
-- title: IMC
-  full_name: Internet Measurement Conference
-  id: imc21
-  year: 2021
-  link: https://conferences.sigcomm.org/imc/2021/
-  deadline: "2021-05-26 23:59:59"
-  note: Title and abstract deadline on May 19th
-  date: November 2-4 2021
-  place: Virtual
-  timezone: UTC+0
-  sub: PS
+# - title: IMC
+#   full_name: Internet Measurement Conference
+#   id: imc21
+#   year: 2021
+#   link: https://conferences.sigcomm.org/imc/2021/
+#   deadline: "2021-05-26 23:59:59"
+#   note: Title and abstract deadline on May 19th
+#   date: November 2-4 2021
+#   place: Virtual
+#   timezone: UTC+0
+#   sub: PS
 
 # - title: DSN
 #   full_name: The International Conference on Dependable Systems and Networks
