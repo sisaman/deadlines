@@ -106,19 +106,19 @@
   sub: DM
   note: Mandatory abstract deadline on May 12, 2022
 
-- title: COLING
-  full_name: International Conference on Computational Linguistics
-  year: 2022
-  id: coling22
-  link: https://coling2022.org/
-  deadline: '2022-05-17 23:59:59'
-  timezone: UTC-12
-  place: Gyeongju, Republic of Korea
-  date: October 12-17, 2022
-  start: 2022-10-12
-  end: 2022-10-17
-  hindex: 64
-  sub: NLP
+# - title: COLING
+#   full_name: International Conference on Computational Linguistics
+#   year: 2022
+#   id: coling22
+#   link: https://coling2022.org/
+#   deadline: '2022-05-17 23:59:59'
+#   timezone: UTC-12
+#   place: Gyeongju, Republic of Korea
+#   date: October 12-17, 2022
+#   start: 2022-10-12
+#   end: 2022-10-17
+#   hindex: 64
+#   sub: NLP
 
 - title: NeurIPS
   full_name: Annual Conference on Neural Information Processing Systems
@@ -136,80 +136,80 @@
   sub: ML
   note: Mandatory abstract deadline on May 16, 2022
 
-- title: ISMIR
-  full_name: International Society for Music Information Retrieval Conference
-  year: 2022
-  id: ismir22
-  link: https://ismir2022.ismir.net/
-  deadline: '2022-05-20 23:59:59'
-  abstract_deadline: '2022-5-13 23:59:59'
-  timezone: UTC-12
-  place: Bangaluru, India
-  date: December 4-8, 2022
-  start: 2022-12-04
-  end: 2022-12-08
-  hindex: 32
-  sub: SP
-  note: Mandatory abstract deadline on May 13, 2022. More info <a href='https://ismir2022.ismir.net/calls/cfp/'>here</a>.
+# - title: ISMIR
+#   full_name: International Society for Music Information Retrieval Conference
+#   year: 2022
+#   id: ismir22
+#   link: https://ismir2022.ismir.net/
+#   deadline: '2022-05-20 23:59:59'
+#   abstract_deadline: '2022-5-13 23:59:59'
+#   timezone: UTC-12
+#   place: Bangaluru, India
+#   date: December 4-8, 2022
+#   start: 2022-12-04
+#   end: 2022-12-08
+#   hindex: 32
+#   sub: SP
+#   note: Mandatory abstract deadline on May 13, 2022. More info <a href='https://ismir2022.ismir.net/calls/cfp/'>here</a>.
 
-- title: AACL-IJCNLP
-  full_name: Asia-Pacific Chapter of the Association for Computational Linguistics
-  year: 2022
-  id: aacl22
-  link: https://www.aacl2022.org/
-  deadline: '2022-07-15 23:59:00'
-  timezone: UTC-12
-  place: Taipei, Taiwan
-  date: November 21-24, 2022
-  start: 2022-11-21
-  end: 2022-11-24
-  hindex: -1
-  sub: NLP
+# - title: AACL-IJCNLP
+#   full_name: Asia-Pacific Chapter of the Association for Computational Linguistics
+#   year: 2022
+#   id: aacl22
+#   link: https://www.aacl2022.org/
+#   deadline: '2022-07-15 23:59:00'
+#   timezone: UTC-12
+#   place: Taipei, Taiwan
+#   date: November 21-24, 2022
+#   start: 2022-11-21
+#   end: 2022-11-24
+#   hindex: -1
+#   sub: NLP
 
-- title: ICMR
-  full_name: ACM International Conference on Multimedia Retrieval
-  year: 2020
-  id: icmr20
-  link: http://icmr2020.org/
-  deadline: '2020-01-11 23:59:59'
-  timezone: Europe/London
-  place: Dublin, Ireland
-  date: June 8-11, 2020
-  start: 2020-06-08
-  end: 2020-06-11
-  paperslink: http://icmr2020.org/ICMR2020-detailed-schedule-FINAL.pdf
-  hindex: 33
-  sub: CV
+# - title: ICMR
+#   full_name: ACM International Conference on Multimedia Retrieval
+#   year: 2020
+#   id: icmr20
+#   link: http://icmr2020.org/
+#   deadline: '2020-01-11 23:59:59'
+#   timezone: Europe/London
+#   place: Dublin, Ireland
+#   date: June 8-11, 2020
+#   start: 2020-06-08
+#   end: 2020-06-11
+#   paperslink: http://icmr2020.org/ICMR2020-detailed-schedule-FINAL.pdf
+#   hindex: 33
+#   sub: CV
 
-- title: ICCC
-  full_name: International Conference on Computational Creativity
-  year: 2020
-  id: iccc20
-  link: http://computationalcreativity.net/iccc20/
-  deadline: '2020-03-08 23:59:59'
-  timezone: UTC-12
-  place: Coimbra, Portugal
-  date: June 29 - July 3, 2020
-  start: 2020-06-29
-  end: 2020-07-03
-  paperslink: http://computationalcreativity.net/iccc20/papers/ICCC20_Proceedings.pdf
-  hindex: 22
-  sub: ML
+# - title: ICCC
+#   full_name: International Conference on Computational Creativity
+#   year: 2020
+#   id: iccc20
+#   link: http://computationalcreativity.net/iccc20/
+#   deadline: '2020-03-08 23:59:59'
+#   timezone: UTC-12
+#   place: Coimbra, Portugal
+#   date: June 29 - July 3, 2020
+#   start: 2020-06-29
+#   end: 2020-07-03
+#   paperslink: http://computationalcreativity.net/iccc20/papers/ICCC20_Proceedings.pdf
+#   hindex: 22
+#   sub: ML
 
-- title: ACCV
-  full_name: Asian Conference on Computer Vision
-  year: 2020
-  id: accv20
-  link: http://accv2020.kyoto/
-  deadline: '2020-07-08 23:59:00'
-  timezone: UTC
-  place: Online
-  date: November 30 - December 4, 2020
-  start: 2020-11-30
-  end: 2020-12-04
-  paperslink: https://accv2020.github.io/programs/papers/index.html
-  hindex: 38
-  sub: CV
+# - title: ACCV
+#   full_name: Asian Conference on Computer Vision
+#   year: 2020
+#   id: accv20
+#   link: http://accv2020.kyoto/
+#   deadline: '2020-07-08 23:59:00'
+#   timezone: UTC
+#   place: Online
+#   date: November 30 - December 4, 2020
+#   start: 2020-11-30
+#   end: 2020-12-04
+#   paperslink: https://accv2020.github.io/programs/papers/index.html
+#   hindex: 38
+#   sub: CV
 
 - title: ICPR
   full_name: International Conference on Pattern Recognition
@@ -226,53 +226,53 @@
   hindex: 38
   sub: ML
 
-- title: CoNLL
-  full_name: Conference on Computational Natural Language Learning
-  year: 2020
-  id: conll2020
-  link: http://www.conll.org/2020
-  deadline: '2020-07-17 23:59:59'
-  timezone: UTC-12
-  place: Online
-  date: November 19-20, 2020
-  start: 2020-11-19
-  end: 2020-11-20
-  paperslink: https://aclanthology.org/events/conll-2020/
-  hindex: 34
-  sub: NLP
+# - title: CoNLL
+#   full_name: Conference on Computational Natural Language Learning
+#   year: 2020
+#   id: conll2020
+#   link: http://www.conll.org/2020
+#   deadline: '2020-07-17 23:59:59'
+#   timezone: UTC-12
+#   place: Online
+#   date: November 19-20, 2020
+#   start: 2020-11-19
+#   end: 2020-11-20
+#   paperslink: https://aclanthology.org/events/conll-2020/
+#   hindex: 34
+#   sub: NLP
 
-- title: EACL
-  full_name: Conference of the European Chapter of the Association for Computational Linguistics
-  year: 2021
-  id: eacl21
-  link: https://2021.eacl.org/
-  deadline: '2020-10-07 23:59:00'
-  timezone: UTC-12
-  place: Online (Kyiv, Ukraine)
-  date: April 21-23, 2021
-  start: 2021-04-21
-  end: 2021-04-23
-  paperslink: https://aclanthology.org/events/eacl-2021/#2021-eacl-main
-  pwclink: https://paperswithcode.com/conference/eacl-2021-2
-  hindex: 36
-  sub: NLP
+# - title: EACL
+#   full_name: Conference of the European Chapter of the Association for Computational Linguistics
+#   year: 2021
+#   id: eacl21
+#   link: https://2021.eacl.org/
+#   deadline: '2020-10-07 23:59:00'
+#   timezone: UTC-12
+#   place: Online (Kyiv, Ukraine)
+#   date: April 21-23, 2021
+#   start: 2021-04-21
+#   end: 2021-04-23
+#   paperslink: https://aclanthology.org/events/eacl-2021/#2021-eacl-main
+#   pwclink: https://paperswithcode.com/conference/eacl-2021-2
+#   hindex: 36
+#   sub: NLP
 
-- title: AAMAS
-  full_name: International Conference on Autonomous Agents and Multiagent Systems
-  year: 2021
-  id: aamas21
-  link: https://aamas2021.soton.ac.uk/
-  deadline: '2020-10-09 23:59:59'
-  abstract_deadline: '2020-10-02 23:59:59'
-  timezone: UTC-12
-  place: London, UK
-  date: May 3-7, 2021
-  start: 2021-05-03
-  end: 2021-05-07
-  paperslink: https://dl.acm.org/doi/proceedings/10.5555/3463952
-  hindex: 25
-  sub: ML
-  note: Mandatory abstract deadline on Oct 02, 2020. More info <a href='https://aamas2021.soton.ac.uk/calls/papers/'>here</a>.
+# - title: AAMAS
+#   full_name: International Conference on Autonomous Agents and Multiagent Systems
+#   year: 2021
+#   id: aamas21
+#   link: https://aamas2021.soton.ac.uk/
+#   deadline: '2020-10-09 23:59:59'
+#   abstract_deadline: '2020-10-02 23:59:59'
+#   timezone: UTC-12
+#   place: London, UK
+#   date: May 3-7, 2021
+#   start: 2021-05-03
+#   end: 2021-05-07
+#   paperslink: https://dl.acm.org/doi/proceedings/10.5555/3463952
+#   hindex: 25
+#   sub: ML
+#   note: Mandatory abstract deadline on Oct 02, 2020. More info <a href='https://aamas2021.soton.ac.uk/calls/papers/'>here</a>.
 
 - title: SDM
   full_name: SIAM International Conference on Data Mining
@@ -453,35 +453,35 @@
   sub: ML
   note: Mandatory abstract deadline on Dec 14, 2021. More info <a href='https://facctconference.org/2022/cfp.html'>here</a>.
 
-- title: CHIL
-  full_name: Conference on Health, Inference, and Learning
-  year: 2022
-  id: chil22
-  link: https://www.chilconference.org/
-  deadline: '2022-01-14 23:59:59'
-  timezone: UTC-12
-  place: Online
-  date: April 7-8, 2022
-  start: 2022-04-07
-  end: 2022-04-08
-  paperslink: https://www.chilconference.org/2021/proceedings.html
-  hindex: -1
-  sub: ML
-  note: Recommended abstract deadline on Jan 10, 2021. More info <a href='https://www.chilconference.org'>here</a>.
+# - title: CHIL
+#   full_name: Conference on Health, Inference, and Learning
+#   year: 2022
+#   id: chil22
+#   link: https://www.chilconference.org/
+#   deadline: '2022-01-14 23:59:59'
+#   timezone: UTC-12
+#   place: Online
+#   date: April 7-8, 2022
+#   start: 2022-04-07
+#   end: 2022-04-08
+#   paperslink: https://www.chilconference.org/2021/proceedings.html
+#   hindex: -1
+#   sub: ML
+#   note: Recommended abstract deadline on Jan 10, 2021. More info <a href='https://www.chilconference.org'>here</a>.
 
-- title: NAACL
-  full_name: Annual Conference of the North American Chapter of the Association for Computational Linguistics
-  year: 2022
-  id: naacl22
-  link: https://2022.naacl.org/
-  deadline: '2022-01-15 23:59:00'
-  timezone: UTC-12
-  place: Seattle, Washington, USA
-  date: July 10-15, 2022
-  start: 2022-07-10
-  end: 2022-07-15
-  hindex: 105
-  sub: NLP
+# - title: NAACL
+#   full_name: Annual Conference of the North American Chapter of the Association for Computational Linguistics
+#   year: 2022
+#   id: naacl22
+#   link: https://2022.naacl.org/
+#   deadline: '2022-01-15 23:59:00'
+#   timezone: UTC-12
+#   place: Seattle, Washington, USA
+#   date: July 10-15, 2022
+#   start: 2022-07-10
+#   end: 2022-07-15
+#   hindex: 105
+#   sub: NLP
 
 - title: ICWSM
   full_name: International AAAI Conference on Web and Social Media
@@ -568,22 +568,22 @@
   end: 2022-08-05
   sub: ML
 
-- title: AutoML-Conf
-  full_name: International Conference on Automated Machine Learning
-  year: 2022
-  id: automl-conf22
-  link: https://automl.cc/
-  deadline: '2022-03-03 23:59:00'
-  abstract_deadline: '2022-02-24 23:59:00'
-  timezone: UTC-12
-  place: Baltimore, US
-  date: July 25-27, 2022
-  start: 2022-07-25
-  end: 2022-07-27
-  hindex: 0
-  sub: ML
-  note: Conference replacing the AutoML workshops @ ICML as they were extremely successful.
-    First edition.
+# - title: AutoML-Conf
+#   full_name: International Conference on Automated Machine Learning
+#   year: 2022
+#   id: automl-conf22
+#   link: https://automl.cc/
+#   deadline: '2022-03-03 23:59:00'
+#   abstract_deadline: '2022-02-24 23:59:00'
+#   timezone: UTC-12
+#   place: Baltimore, US
+#   date: July 25-27, 2022
+#   start: 2022-07-25
+#   end: 2022-07-27
+#   hindex: 0
+#   sub: ML
+#   note: Conference replacing the AutoML workshops @ ICML as they were extremely successful.
+#     First edition.
 
 - title: CoLLAs
   full_name: Conference on Lifelong Learning Agents
@@ -641,18 +641,18 @@
   sub: SP
   note: Check the conference website for workshop and demo deadlines
   
-- title: ISMIS
-  full_name: International Symposium on Methodologies for Intelligent Systems
-  hindex: 9
-  year: 2022
-  id: ismis22
-  link: https://ismis2022.icar.cnr.it/
-  deadline: '2022-06-16 23:59:59'
-  timezone: UTC-12
-  date: October, 03-05, 2022
-  place: Cosenza, Italy
-  sub: DM
-  note: '<b>NOTE</b>: Industry Session Deadline: 16 June 2022'
+# - title: ISMIS
+#   full_name: International Symposium on Methodologies for Intelligent Systems
+#   hindex: 9
+#   year: 2022
+#   id: ismis22
+#   link: https://ismis2022.icar.cnr.it/
+#   deadline: '2022-06-16 23:59:59'
+#   timezone: UTC-12
+#   date: October, 03-05, 2022
+#   place: Cosenza, Italy
+#   sub: DM
+#   note: '<b>NOTE</b>: Industry Session Deadline: 16 June 2022'
 
 - title: S&P (Oakland)
   full_name: IEEE Symposium on Security and Privacy
@@ -687,16 +687,16 @@
   timezone: UTC-7
   sub: PS
 
-- title: ICICS
-  full_name: The 24th International Conference on Information and Communications Security
-  id: icics22
-  year: 2022
-  date: "Sept 05 – 08 2022"
-  link: https://icics2022.cyber.kent.ac.uk/index.php
-  deadline: "2022-03-21 23:59:59"
-  place: University of Kent, Canterbury, UK
-  timezone: UTC+1
-  sub: PS
+# - title: ICICS
+#   full_name: The 24th International Conference on Information and Communications Security
+#   id: icics22
+#   year: 2022
+#   date: "Sept 05 – 08 2022"
+#   link: https://icics2022.cyber.kent.ac.uk/index.php
+#   deadline: "2022-03-21 23:59:59"
+#   place: University of Kent, Canterbury, UK
+#   timezone: UTC+1
+#   sub: PS
 
 - title: Euro S&P
   full_name: IEEE European Symposium on Security and Privacy
@@ -731,27 +731,27 @@
   timezone: UTC-8
   sub: PS
 
-- title: AsiaCCS
-  full_name: ACM Asia Conference on Computer and Communications Security
-  id: asiaccs23-1
-  year: 2023
-  date: "June 5 - June 9 2023"
-  link: https://asiaccs2023.org/
-  deadline: "2022-07-28 23:59:59"
-  place: Melbourne, Australia
-  timezone: UTC+10
-  sub: PS
+# - title: AsiaCCS
+#   full_name: ACM Asia Conference on Computer and Communications Security
+#   id: asiaccs23-1
+#   year: 2023
+#   date: "June 5 - June 9 2023"
+#   link: https://asiaccs2023.org/
+#   deadline: "2022-07-28 23:59:59"
+#   place: Melbourne, Australia
+#   timezone: UTC+10
+#   sub: PS
 
-- title: AsiaCCS
-  full_name: ACM Asia Conference on Computer and Communications Security
-  id: asiaccs23-2
-  year: 2023
-  date: "June 5 - June 9 2023"
-  link: https://asiaccs2023.org/
-  deadline: "2022-11-02 23:59:59"
-  place: Melbourne, Australia
-  timezone: UTC+10
-  sub: PS
+# - title: AsiaCCS
+#   full_name: ACM Asia Conference on Computer and Communications Security
+#   id: asiaccs23-2
+#   year: 2023
+#   date: "June 5 - June 9 2023"
+#   link: https://asiaccs2023.org/
+#   deadline: "2022-11-02 23:59:59"
+#   place: Melbourne, Australia
+#   timezone: UTC+10
+#   sub: PS
 
 - title: Usenix
   full_name: Usenix Security Symposium
@@ -808,29 +808,29 @@
   timezone: UTC-8
   sub: PS
 
-- title: ESORICS
-  full_name: European Symposium on Research in Computer Security
-  id: esorics22-1
-  year: 2022
-  link: https://esorics2022.compute.dtu.dk/cfp.html
-  deadline: "2022-01-31 23:59:59"
-  note: Title and abstract deadline on Jan 25 / May 22
-  date: September 26-30 2022
-  place: Copenhagen, Denmark
-  timezone: UTC+1
-  sub: PS
+# - title: ESORICS
+#   full_name: European Symposium on Research in Computer Security
+#   id: esorics22-1
+#   year: 2022
+#   link: https://esorics2022.compute.dtu.dk/cfp.html
+#   deadline: "2022-01-31 23:59:59"
+#   note: Title and abstract deadline on Jan 25 / May 22
+#   date: September 26-30 2022
+#   place: Copenhagen, Denmark
+#   timezone: UTC+1
+#   sub: PS
 
-- title: ESORICS
-  full_name: European Symposium on Research in Computer Security
-  id: esorics22-2
-  year: 2022
-  link: https://esorics2022.compute.dtu.dk/cfp.html
-  deadline: "2022-05-29 23:59:59"
-  note: Title and abstract deadline on Jan 25 / May 22
-  date: September 26-30 2022
-  place: Copenhagen, Denmark
-  timezone: UTC+1
-  sub: PS
+# - title: ESORICS
+#   full_name: European Symposium on Research in Computer Security
+#   id: esorics22-2
+#   year: 2022
+#   link: https://esorics2022.compute.dtu.dk/cfp.html
+#   deadline: "2022-05-29 23:59:59"
+#   note: Title and abstract deadline on Jan 25 / May 22
+#   date: September 26-30 2022
+#   place: Copenhagen, Denmark
+#   timezone: UTC+1
+#   sub: PS
 
 - title: CSF
   full_name: IEEE Computer Security Foundations Symposium
@@ -865,27 +865,27 @@
   timezone: UTC+1
   sub: PS
 
-- title: WiSec
-  full_name: ACM Conference on Security and Privacy in Wireless and Mobile Networks
-  id: wisec22
-  year: 2022
-  link: https://wisec2022.cs.utsa.edu/
-  deadline: "2022-02-12 23:59:59"
-  date: May 16 - May 19 2022
-  place: San Antonio, Texas, USA
-  timezone: UTC-8
-  sub: PS
+# - title: WiSec
+#   full_name: ACM Conference on Security and Privacy in Wireless and Mobile Networks
+#   id: wisec22
+#   year: 2022
+#   link: https://wisec2022.cs.utsa.edu/
+#   deadline: "2022-02-12 23:59:59"
+#   date: May 16 - May 19 2022
+#   place: San Antonio, Texas, USA
+#   timezone: UTC-8
+#   sub: PS
 
-- title: FC
-  full_name: Financial Cryptography and Data Security
-  id: fc22
-  year: 2022
-  link: https://fc22.ifca.ai/
-  deadline: "2021-09-09 23:59:59"
-  date: February 14-18 2022
-  place: Grenada
-  timezone: UTC-4
-  sub: PS
+# - title: FC
+#   full_name: Financial Cryptography and Data Security
+#   id: fc22
+#   year: 2022
+#   link: https://fc22.ifca.ai/
+#   deadline: "2021-09-09 23:59:59"
+#   date: February 14-18 2022
+#   place: Grenada
+#   timezone: UTC-4
+#   sub: PS
 
 - title: PETS
   full_name: Privacy Enhancing Technologies Symposium
@@ -935,16 +935,16 @@
   timezone: UTC+1
   sub: PS
 
-- title: ACSAC
-  full_name: Annual Computer Security Applications Conference
-  id: acsac22
-  year: 2022
-  link: https://www.acsac.org/2022/
-  deadline: "2022-06-29 23:59:59"
-  date: Dec 5-9 2022
-  place: Austin, TX, USA
-  timezone: UTC-8
-  sub: PS
+# - title: ACSAC
+#   full_name: Annual Computer Security Applications Conference
+#   id: acsac22
+#   year: 2022
+#   link: https://www.acsac.org/2022/
+#   deadline: "2022-06-29 23:59:59"
+#   date: Dec 5-9 2022
+#   place: Austin, TX, USA
+#   timezone: UTC-8
+#   sub: PS
 
 - title: IMC
   full_name: Internet Measurement Conference
@@ -958,14 +958,25 @@
   timezone: UTC+0
   sub: PS
 
-- title: DSN
-  full_name: The International Conference on Dependable Systems and Networks
-  id: dsn22
-  year: 2022
-  link: https://dsn2022.github.io/
-  deadline: "2021-12-10 23:59:59"
-  note: Title and abstract deadline on Dec 3rd
-  date: June 27-30 2022
-  place: Baltimore, MD, USA
-  timezone: UTC-5
+# - title: DSN
+#   full_name: The International Conference on Dependable Systems and Networks
+#   id: dsn22
+#   year: 2022
+#   link: https://dsn2022.github.io/
+#   deadline: "2021-12-10 23:59:59"
+#   note: Title and abstract deadline on Dec 3rd
+#   date: June 27-30 2022
+#   place: Baltimore, MD, USA
+#   timezone: UTC-5
+#   sub: PS
+
+- title: SaTML
+  full_name: IEEE Conference on Secure and Trustworthy Machine Learning
+  id: satml
+  year: 2023
+  link: https://satml.org/
+  deadline: "2022-09-01 23:59:59"
+  date: February 8-10 2023
+  place: TBA
+  timezone: UTC-12
   sub: PS
