@@ -617,6 +617,17 @@
   timezone: UTC-12
   sub: PS
 
+- title: TrustLOG
+  full_name: Workshop on Trustworthy Learning on Graphs
+  id: trustlog
+  year: 2022
+  link: https://satml.org/
+  deadline: "2022-09-02 23:59:59"
+  date: October 15, 2022
+  place: Online
+  timezone: UTC-12
+  sub: PS
+
 
 # - title: ACML
 #   full_name: Asian Conference on Machine Learning
